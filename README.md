@@ -1,4 +1,4 @@
-|![image](https://github.com/NTU-CCA/EE7403/blob/master/logo.png)|
+|![image](https://github.com/NTU-CCA/EE6203/blob/master/logo.png)|
 |---|
 # EE6203 - Computer Control Systems
 
