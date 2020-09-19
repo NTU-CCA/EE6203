@@ -26,4 +26,9 @@ On completion of the subject, the students should be able to understand specific
 - Kuo B. C., Digital Control Systems, 2nd Edition, <i>Saunders College Publishing</i>, 1992.
 - Franklin G. F., Powell J. D. and Workman M. L., Digital Control of Dynamic Systems, <i>Addison-Wesley</i>, 1990.
 
+### Past-Year Exam Papers:
+
+- [AY 2018-2019]()
+- [AY 2017-2018]()
+
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
