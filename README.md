@@ -1,5 +1,5 @@
-|![image](https://github.com/NTU-CCA/EE6203/blob/master/logo.png)|
-|---|
+*(NOTE: All the content was found on the Internet.)*
+
 # EE6203 - Computer Control Systems
 
 ### Learning Objective:
@@ -25,13 +25,5 @@ On completion of the subject, the students should be able to understand specific
 - Ioan D. Landau, Zito Gianluca, Digital Control Systems: Design, Identification and Implementation, <i>Springer</i>, 2006.
 - Kuo B. C., Digital Control Systems, 2nd Edition, <i>Saunders College Publishing</i>, 1992.
 - Franklin G. F., Powell J. D. and Workman M. L., Digital Control of Dynamic Systems, <i>Addison-Wesley</i>, 1990.
-
-### Solutions of Past-Year Exam Papers:
-
-- [EE6203 AY 2018-2019](https://github.com/NTU-CCA/EE6203/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6203%202018-2019.pdf)
-- [EE6203 AY 2017-2018](https://github.com/NTU-CCA/EE6203/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6203%202017-2018.pdf)
-- [EE6203 AY 2016-2017](https://github.com/NTU-CCA/EE6203/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6203%202016-2017.pdf)
-- [EE6203 AY 2015-2016](https://github.com/NTU-CCA/EE6203/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6203%202015-2016.pdf)
-- [EE6203 AY 2014-2015](https://github.com/NTU-CCA/EE6203/blob/master/Solutions%20of%20Past-Year%20Exam%20Papers/EE6203%202014-2015.pdf)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
